@@ -1,0 +1,6 @@
+D:\myCode\CSharpCode\Lexical\Lexical\obj\Debug\Lexical.csprojResolveAssemblyReference.cache
+D:\myCode\CSharpCode\Lexical\Lexical\bin\Debug\Lexical.exe.config
+D:\myCode\CSharpCode\Lexical\Lexical\bin\Debug\Lexical.exe
+D:\myCode\CSharpCode\Lexical\Lexical\bin\Debug\Lexical.pdb
+D:\myCode\CSharpCode\Lexical\Lexical\obj\Debug\Lexical.exe
+D:\myCode\CSharpCode\Lexical\Lexical\obj\Debug\Lexical.pdb
